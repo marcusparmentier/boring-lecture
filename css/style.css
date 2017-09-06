@@ -1,0 +1,14 @@
+h2.intro {
+  color: grey;
+}
+
+p.intro {
+  font-size: 25px;
+
+}
+
+img.intro {
+  width: 80%;
+  height: auto;
+  margin: 0;
+ }
